@@ -3,3 +3,11 @@ worldwide.l3cdn.riotgames.com
 riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
 *.dyn.riotcdn.net
+80-239-138-50.teliacarrier-cust.com
+80-239-138-65.teliacarrier-cust.com
+80-239-138-73.teliacarrier-cust.com
+80-239-138-11.teliacarrier-cust.com
+80-239-138-64.teliacarrier-cust.com
+80-239-138-9.teliacarrier-cust.com
+80-239-138-83.teliacarrier-cust.com
+80-239-138-49.teliacarrier-cust.com
